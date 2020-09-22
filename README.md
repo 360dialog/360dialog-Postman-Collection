@@ -1,4 +1,4 @@
-# WhatsApp Business API - Postman Collection (with modifications by 360dialog)
+# WhatsApp Business API - Postman Collection (modified by [360dialog](https://www.360dialog.com/))
 
 This is a Postman collection of [WhatsApp Business API](https://developers.facebook.com/docs/whatsapp).  The provided environment contains the list of variables referenced by the API collection.
 
