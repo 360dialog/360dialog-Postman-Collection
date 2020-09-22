@@ -1,5 +1,5 @@
 {
-	"id": "8b56924d-315a-40dd-b927-25dfd6f5c142",
+	"id": "1e77b639-be7b-415c-bb82-c8b0c0a3661f",
 	"name": "WABiz Developer",
 	"values": [
 		{
@@ -54,7 +54,7 @@
 		},
 		{
 			"key": "URL",
-			"value": "<valid webapp url, i.e 'https://localhost:9090'>",
+			"value": "https://waba.360dialog.io/",
 			"enabled": true
 		},
 		{
@@ -74,6 +74,6 @@
 		}
 	],
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2020-05-27T14:47:41.093Z",
-	"_postman_exported_using": "Postman/7.24.0"
+	"_postman_exported_at": "2020-09-22T07:26:54.600Z",
+	"_postman_exported_using": "Postman/7.32.1-prod200916-0916"
 }
