@@ -3,6 +3,16 @@
 	"name": "WABiz Developer",
 	"values": [
 		{
+			"key": "APIKey",
+			"value": "API Key of the client",
+			"enabled": true
+		},
+		{
+			"key": "DeleteTemplateName",
+			"value": "Template name to delete",
+			"enabled": true
+		},
+		{
 			"key": "AdminAuthToken",
 			"value": "<valid token from login api as admin>",
 			"enabled": true
@@ -53,11 +63,6 @@
 			"enabled": true
 		},
 		{
-			"key": "URL",
-			"value": "https://waba.360dialog.io/",
-			"enabled": true
-		},
-		{
 			"key": "UserUsername",
 			"value": "<username of whatsapp business client user>",
 			"enabled": true
@@ -68,12 +73,12 @@
 			"enabled": true
 		},
 		{
-			"key": "UserAuthToken",
-			"value": "<valid token from login api as user>",
+			"key": "URL",
+			"value": "https://waba.360dialog.io/",
 			"enabled": true
 		}
 	],
 	"_postman_variable_scope": "environment",
-	"_postman_exported_at": "2020-09-22T07:26:54.600Z",
-	"_postman_exported_using": "Postman/7.32.1-prod200916-0916"
+	"_postman_exported_at": "2020-10-09T08:08:30.657Z",
+	"_postman_exported_using": "Postman/7.33.1"
 }

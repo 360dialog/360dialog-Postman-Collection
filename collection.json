@@ -18,8 +18,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -52,8 +52,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -115,8 +115,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -149,8 +149,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -183,8 +183,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -218,8 +218,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -253,8 +253,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -288,8 +288,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -323,8 +323,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -358,8 +358,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -393,8 +393,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -428,8 +428,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -463,8 +463,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -498,8 +498,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -533,8 +533,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -568,8 +568,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -603,8 +603,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -638,8 +638,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -673,8 +673,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -707,8 +707,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -741,8 +741,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -776,8 +776,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -796,41 +796,6 @@
 								"v1",
 								"messages",
 								""
-							]
-						}
-					},
-					"response": []
-				},
-				{
-					"name": "Mark-Message-As-Read",
-					"request": {
-						"method": "PUT",
-						"header": [
-							{
-								"key": "Content-Type",
-								"value": "application/json"
-							},
-							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
-							}
-						],
-						"body": {
-							"mode": "raw",
-							"raw": "{\n  \"status\": \"read\"\n}\n",
-							"options": {
-								"raw": {}
-							}
-						},
-						"url": {
-							"raw": "{{URL}}/v1/messages/<Message ID from Webhook>",
-							"host": [
-								"{{URL}}"
-							],
-							"path": [
-								"v1",
-								"messages",
-								"<Message ID from Webhook>"
 							]
 						}
 					},
@@ -874,13 +839,8 @@
 								"value": "image/jpeg"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
-							},
-							{
-								"key": "",
-								"value": "",
-								"disabled": true
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -910,8 +870,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"url": {
@@ -938,8 +898,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -999,7 +959,7 @@
 							},
 							{
 								"key": "D360-API-KEY",
-								"value": "{{UserAuthToken}}",
+								"value": "{{APIKey}}",
 								"type": "text"
 							}
 						],
@@ -1032,8 +992,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"url": {
@@ -1066,8 +1026,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"url": {
@@ -1101,8 +1061,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"url": {
@@ -1137,8 +1097,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -1171,8 +1131,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"url": {
@@ -1198,8 +1158,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -1233,8 +1193,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"url": {
@@ -1261,8 +1221,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"url": {
@@ -1289,8 +1249,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -1325,8 +1285,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"url": {
@@ -1354,8 +1314,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -1391,8 +1351,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"body": {
@@ -1428,8 +1388,8 @@
 								"value": "application/json"
 							},
 							{
-								"key": "Authorization",
-								"value": "Bearer {{AdminAuthToken}}"
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}"
 							}
 						],
 						"url": {
@@ -1483,7 +1443,7 @@
 						"header": [
 							{
 								"key": "D360-API-KEY",
-								"value": "{{UserAuthToken}}",
+								"value": "{{APIKey}}",
 								"type": "text"
 							}
 						],
@@ -1508,13 +1468,13 @@
 						"header": [
 							{
 								"key": "D360-API-KEY",
-								"value": "{{UserAuthToken}}",
+								"value": "{{APIKey}}",
 								"type": "text"
 							}
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"name\": \"test_ticket\",\n    \"category\": \"TICKET_UPDATE\",\n    \"components\": [\n        {\n            \"type\": \"BODY\",\n            \"text\": \"Test text 😀\"\n        }\n    ],\n    \"language\": \"en\"\n}",
+							"raw": "{\n    \"name\": \"test_name\",\n    \"category\": \"TICKET_UPDATE\",\n    \"components\": [\n        {\n            \"type\": \"BODY\",\n            \"text\": \"Test text 😀\"\n        }\n    ],\n    \"language\": \"de\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -1542,12 +1502,12 @@
 						"header": [
 							{
 								"key": "D360-API-KEY",
-								"value": "{{UserAuthToken}}",
+								"value": "{{APIKey}}",
 								"type": "text"
 							}
 						],
 						"url": {
-							"raw": "{{URL}}/v1/configs/templates/to_delete",
+							"raw": "{{URL}}/v1/configs/templates/{{DeleteTemplateName}}",
 							"host": [
 								"{{URL}}"
 							],
@@ -1555,7 +1515,7 @@
 								"v1",
 								"configs",
 								"templates",
-								"to_delete"
+								"{{DeleteTemplateName}}"
 							]
 						}
 					},
