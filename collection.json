@@ -1523,6 +1523,192 @@
 				}
 			],
 			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "Profile Information",
+			"item": [
+				{
+					"name": "Set about",
+					"request": {
+						"method": "PATCH",
+						"header": [
+							{
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n  \"text\": \"your-about-text\"\n}\n",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{URL}}/v1/settings/profile/about",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"v1",
+								"settings",
+								"profile",
+								"about"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get about",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{URL}}/v1/settings/profile/about",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"v1",
+								"settings",
+								"profile",
+								"about"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Set Business Profile Settings",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"address\": \"your-business-address\",\n    \"description\": \"your-business-description\",\n    \"email\": \"example@some.com\",\n    \"vertical\": \"Other\",\n    \"websites\": [ \"http://example.com\" ]\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{URL}}/v1/settings/business/profile",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"v1",
+								"settings",
+								"business",
+								"profile"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Business Profile Settings",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "{{URL}}/v1/settings/business/profile",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"v1",
+								"settings",
+								"business",
+								"profile"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Set profile photo",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "D360-API-KEY",
+								"value": "{{APIKey}}",
+								"type": "text"
+							}
+						],
+						"body": {
+							"mode": "file",
+							"file": {
+								"src": "/path/to/image.png"
+							}
+						},
+						"url": {
+							"raw": "{{URL}}/v1/settings/profile/photo",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"v1",
+								"settings",
+								"profile",
+								"photo"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get profile photo",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "D360-API-KEY",
+								"type": "text",
+								"value": "{{APIKey}}"
+							}
+						],
+						"url": {
+							"raw": "{{URL}}/v1/settings/profile/photo",
+							"host": [
+								"{{URL}}"
+							],
+							"path": [
+								"v1",
+								"settings",
+								"profile",
+								"photo"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"protocolProfileBehavior": {}
 		}
 	],
 	"protocolProfileBehavior": {}
